@@ -1,0 +1,8 @@
+applications:
+- path: .
+  memory: 256M
+  instances: 1
+  domain: mybluemix.net
+  name: Vinnie's first test app
+  host: Vinnie-first-test-app
+  disk_quota: 1024M
